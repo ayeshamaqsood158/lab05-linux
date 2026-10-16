@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Ayesha Maqsood,123,03298231503,03298231501,8232163:/home/lab5user:/bin/bash
