@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 10 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 16 07:39 .
+drwxr-xr-x  3 root             root             4096 Sep 15 18:52 ..
+-rw-------  1 ayeshamaqsood158 ayeshamaqsood158 1108 Oct 16 07:29 .bash_history
+-rw-r--r--  1 ayeshamaqsood158 ayeshamaqsood158  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 ayeshamaqsood158 ayeshamaqsood158 3771 Feb 13  2026 .bashrc
+drwx------  2 ayeshamaqsood158 ayeshamaqsood158 4096 Sep 15 19:21 .cache
+-rw-rw-r--  1 ayeshamaqsood158 ayeshamaqsood158  194 Oct 16 07:06 .gitconfig
+-rw-------  1 ayeshamaqsood158 ayeshamaqsood158   20 Oct 16 07:39 .lesshst
+drwx------  3 ayeshamaqsood158 ayeshamaqsood158 4096 Oct  9 17:37 .local
+-rw-r--r--  1 ayeshamaqsood158 ayeshamaqsood158  807 Feb 13  2026 .profile
+drwx------  2 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 16 06:55 .ssh
+drwxrwxr-x  3 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 10 13:59 Assignment01
+-rw-rw-r--  1 ayeshamaqsood158 ayeshamaqsood158 2215 Oct 10 17:47 Assignment01.md
+drwxrwxr-x  5 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 10 17:50 CC
+drwxrwxr-x  3 ayeshamaqsood158 ayeshamaqsood158 4096 Oct  6 19:10 Gitea
+drwxrwxr-x  5 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 16 07:09 lab05-linux
+drwxrwxr-x  3 ayeshamaqsood158 ayeshamaqsood158 4096 Oct 10 15:59 portfolio
